@@ -1,4 +1,4 @@
-# TweetList
+# tweetlist
 
 This is a Python module used to conveniently make repeated search requests to the Twitter API, aggregate the results in a pandas DataFrame, then use those results for analysis, drawing maps, or natural language ML training.
 
